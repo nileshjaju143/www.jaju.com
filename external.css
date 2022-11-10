@@ -1,0 +1,13 @@
+h1{
+    color: rgb(5, 1, 8);
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    font-variant: initial;
+    text-shadow: 2px 2px 3px rgba(255, 0, 13, 0.986);
+}
+p{
+    color: black;
+    word-spacing: 5px;
+    background-color: cyan;
+}
